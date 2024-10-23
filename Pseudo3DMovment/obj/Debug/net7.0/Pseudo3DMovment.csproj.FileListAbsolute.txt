@@ -1,0 +1,14 @@
+C:\Users\pl1503\ConsoleAppCsharp\Pseudo3DMovment\bin\Debug\net7.0\Pseudo3DMovment.exe
+C:\Users\pl1503\ConsoleAppCsharp\Pseudo3DMovment\bin\Debug\net7.0\Pseudo3DMovment.deps.json
+C:\Users\pl1503\ConsoleAppCsharp\Pseudo3DMovment\bin\Debug\net7.0\Pseudo3DMovment.runtimeconfig.json
+C:\Users\pl1503\ConsoleAppCsharp\Pseudo3DMovment\bin\Debug\net7.0\Pseudo3DMovment.dll
+C:\Users\pl1503\ConsoleAppCsharp\Pseudo3DMovment\bin\Debug\net7.0\Pseudo3DMovment.pdb
+C:\Users\pl1503\ConsoleAppCsharp\Pseudo3DMovment\obj\Debug\net7.0\Pseudo3DMovment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pl1503\ConsoleAppCsharp\Pseudo3DMovment\obj\Debug\net7.0\Pseudo3DMovment.AssemblyInfoInputs.cache
+C:\Users\pl1503\ConsoleAppCsharp\Pseudo3DMovment\obj\Debug\net7.0\Pseudo3DMovment.AssemblyInfo.cs
+C:\Users\pl1503\ConsoleAppCsharp\Pseudo3DMovment\obj\Debug\net7.0\Pseudo3DMovment.csproj.CoreCompileInputs.cache
+C:\Users\pl1503\ConsoleAppCsharp\Pseudo3DMovment\obj\Debug\net7.0\Pseudo3DMovment.dll
+C:\Users\pl1503\ConsoleAppCsharp\Pseudo3DMovment\obj\Debug\net7.0\refint\Pseudo3DMovment.dll
+C:\Users\pl1503\ConsoleAppCsharp\Pseudo3DMovment\obj\Debug\net7.0\Pseudo3DMovment.pdb
+C:\Users\pl1503\ConsoleAppCsharp\Pseudo3DMovment\obj\Debug\net7.0\Pseudo3DMovment.genruntimeconfig.cache
+C:\Users\pl1503\ConsoleAppCsharp\Pseudo3DMovment\obj\Debug\net7.0\ref\Pseudo3DMovment.dll
